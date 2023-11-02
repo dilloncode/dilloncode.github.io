@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+title: redirecting
+redirect_from:
+  - /smad-challenge/challange
+  - /smad-challenge/configuration
+  - /smad-challenge/results
